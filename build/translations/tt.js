@@ -1,0 +1,1 @@
+(function(d){d['tt']=Object.assign(d['tt']||{},{a:"Калын",b:"Italic",c:"Rich Text Editor, %0",d:"Undo",e:"Кабатла"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

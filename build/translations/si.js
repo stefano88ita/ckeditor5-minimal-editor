@@ -1,0 +1,1 @@
+(function(d){d['si']=Object.assign(d['si']||{},{a:"තදකුරු",b:"ඇලකුරු",c:"Rich Text Editor, %0",d:"අහෝසි කරන්න",e:"නැවත කරන්න"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

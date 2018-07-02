@@ -1,0 +1,1 @@
+(function(d){d['ru']=Object.assign(d['ru']||{},{a:"Жирный",b:"Курсив",c:"Редактор, %0",d:"Отменить",e:"Повторить"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

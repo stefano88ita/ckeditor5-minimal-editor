@@ -1,0 +1,1 @@
+(function(d){d['ast']=Object.assign(d['ast']||{},{a:"Negrina",b:"Cursiva",c:"Editor de testu arriquecíu, %0",d:"Desfacer",e:"Refacer"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

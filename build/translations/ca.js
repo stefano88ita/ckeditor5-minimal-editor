@@ -1,0 +1,1 @@
+(function(d){d['ca']=Object.assign(d['ca']||{},{a:"Negreta",b:"Cursiva",c:"Rich Text Editor, %0",d:"Undo",e:"Redo"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

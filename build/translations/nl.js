@@ -1,0 +1,1 @@
+(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Vet",b:"Cursief",c:"Tekstbewerker, 0%",d:"Ongedaan maken",e:"Opnieuw"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

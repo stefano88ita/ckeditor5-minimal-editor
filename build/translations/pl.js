@@ -1,0 +1,1 @@
+(function(d){d['pl']=Object.assign(d['pl']||{},{a:"Pogrubienie",b:"Kursywa",c:"Rich Text Editor, %0",d:"Cofnij",e:"Ponów"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

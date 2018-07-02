@@ -1,0 +1,1 @@
+(function(d){d['ja']=Object.assign(d['ja']||{},{a:"ボールド",b:"イタリック",c:"リッチテキストエディター, %0",d:"元に戻す",e:"やり直し"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

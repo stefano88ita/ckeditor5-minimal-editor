@@ -1,0 +1,1 @@
+(function(d){d['eu']=Object.assign(d['eu']||{},{a:"Lodia",b:"Etzana",c:"Testu aberastuaren editorea, %0",d:"Desegin",e:"Berregin"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

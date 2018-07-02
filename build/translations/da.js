@@ -1,0 +1,1 @@
+(function(d){d['da']=Object.assign(d['da']||{},{a:"Fed",b:"Kursiv",c:"Wysiwyg editor, %0",d:"Fortryd",e:"Gentag"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,0 +1,1 @@
+(function(d){d['bg']=Object.assign(d['bg']||{},{a:"Удебелен",b:"Курсив",c:"Rich Text Editor, %0",d:"Undo",e:"Redo"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

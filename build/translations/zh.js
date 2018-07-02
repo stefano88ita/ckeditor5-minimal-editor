@@ -1,0 +1,1 @@
+(function(d){d['zh']=Object.assign(d['zh']||{},{a:"粗體",b:"斜體",c:"豐富文字編輯器，%0",d:"取消",e:"重做"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

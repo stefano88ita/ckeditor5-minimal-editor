@@ -1,0 +1,1 @@
+(function(d){d['sk']=Object.assign(d['sk']||{},{a:"Tučné",b:"Kurzíva",c:"Editor s formátovaním, %0",d:"Späť",e:"Znova"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

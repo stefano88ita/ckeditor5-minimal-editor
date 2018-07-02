@@ -1,0 +1,1 @@
+(function(d){d['kn']=Object.assign(d['kn']||{},{a:"‍‍ದಪ್ಪ",b:"‍ಇಟಾಲಿಕ್",c:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍, %0",d:"‍‍ರದ್ದು",e:"‍ಮತ್ತೆ ಮಾಡು"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
